@@ -261,11 +261,11 @@ body {
   display: none;
 }
 [data-anime="accodion"]  dt::after{
-  content: '⮧';
+  content: '↰';
   margin-left: 10px;
 }
 [data-anime="accodion"]  dt.ativo::after{
-  content: '⮥';
+  content: '↲';
 }
 [data-anime="accodion"]  dd.ativo{
   display: block;
